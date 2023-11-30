@@ -1,0 +1,15 @@
+.tile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 100%;
+  width: 100%;
+  font-size: 40px;
+  color: rgb(58, 64, 68);
+  background-color: rgb(184, 206, 206);
+}
+
+.O {
+  color: rgb(223, 102, 102) !important;
+}
